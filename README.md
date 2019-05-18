@@ -3,7 +3,7 @@
 This is a project for my Computational Physics course at the University of Manchester.
 
 The primary aim of this project is to create an interactive program that calculates the time variation of a damped harmonic oscillator given initial conditions,
-by using analytical and numerical methods. The methods covered in this program are:
+using analytical and numerical methods. The methods covered in this program are:
 1. Analytical Method
 2. Euler Method 
 3. Improved Euler Method
@@ -14,5 +14,5 @@ The time variation of the damped oscillator is represented by graphs of displace
 accuracy of each numerical method by comparing them to the analytical solution. 
 
 For extensions, part II of the project calculates the solutions of damped harmonice motion with an instantaneous force applied at different 
-phases of the motion.  Part III of the project calculates the solutions of damped harmonice motion with an sinusoidal force applied. Both 
+phases of the motion.  Part III of the project calculates the solutions of damped harmonice motion with a sinusoidal force applied. Both 
 part II and III are done using the Verlet Method.
