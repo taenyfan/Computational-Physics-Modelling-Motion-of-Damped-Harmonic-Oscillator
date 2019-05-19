@@ -17,4 +17,4 @@ For extension, part II of the project calculates the solutions of damped harmoni
 phases of the motion.  Part III of the project calculates the solutions of damped harmonice motion with a sinusoidal force applied. Both 
 part II and III are done using the Verlet Method.
 
-All results can be found in the pdf file.
+A few relevant graphs produced using can be found in the "Graphs" folder. If you'd like more details, feel free to take a read of my project report. 
